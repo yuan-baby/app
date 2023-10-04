@@ -4,6 +4,7 @@ import numpy as np
 
 # Set title
 st.title("Uber pickups in NYC")
+st.markdown('Zhiyuan Liu')
 st.sidebar.markdown("# Main page 🎈")
 
 # Load data and pre-process
